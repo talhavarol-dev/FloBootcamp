@@ -1,7 +1,17 @@
 # FloBootcamp
 # Müzik Dinleme Uygulaması
-
 Deezer API den gelen müziklerin, 45 saniyelik denemekelerini dinletmektedir. Bu süreç uzatılabilir.
+
+### Technologies
++ MVVM Architecture ✅ 
++ Storyboard and .xib ✅
++ Async/Await ✅ 
++ Generic URLSessions Layer ✅ 
++ CoreData ✅
++ CollectionView ✅
++ TableView ✅
++ SDWebImage ✅ 
++ Unit Test ✅ 
 
 ## Genel Yapı
 
