@@ -1,4 +1,6 @@
 # FloBootcamp
+UYARI!
+Uygulamanın coredata entegrasyonunda sorun çıkmıştır. Sürece aykırı gitmemek adına, olduğu haliyle bırakıyorum. FavoriListVC üzerinde removeFavori çalışmamaktadır.
 # Müzik Dinleme Uygulaması
 Deezer API den gelen müziklerin, 45 saniyelik denemekelerini dinletmektedir. Bu süreç uzatılabilir.
 
