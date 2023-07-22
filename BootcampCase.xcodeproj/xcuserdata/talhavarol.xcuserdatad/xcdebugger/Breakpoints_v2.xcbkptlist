@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96BA2C57-6812-41C9-88EE-19816143AAE1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3450E25-1F7F-46B5-A395-441B13C70F41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3450E25-1F7F-46B5-A395-441B13C70F41 - 516b30f573b62430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "A3450E25-1F7F-46B5-A395-441B13C70F41 - 516b30f573b62430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "A3450E25-1F7F-46B5-A395-441B13C70F41 - 37a678ff4d0b1b12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EA2070B-8CFD-417A-B80E-EB5E4D532610"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EA2070B-8CFD-417A-B80E-EB5E4D532610 - 516b30f573b62413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "8EA2070B-8CFD-417A-B80E-EB5E4D532610 - 516b30f573b62413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "8EA2070B-8CFD-417A-B80E-EB5E4D532610 - 37a678ff4d0b1b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF5583A-70C3-4243-8BA3-2D4CF1C1B0A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CF5583A-70C3-4243-8BA3-2D4CF1C1B0A0 - 516b30f573b62455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "2CF5583A-70C3-4243-8BA3-2D4CF1C1B0A0 - 516b30f573b62455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "2CF5583A-70C3-4243-8BA3-2D4CF1C1B0A0 - 37a678ff4d0b1b77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52A259A5-1E34-407D-8189-95012FB60021"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52A259A5-1E34-407D-8189-95012FB60021 - 516b30f573b624b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1972">
+               </Location>
+               <Location
+                  uuid = "52A259A5-1E34-407D-8189-95012FB60021 - 516b30f573b624b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1408">
+               </Location>
+               <Location
+                  uuid = "52A259A5-1E34-407D-8189-95012FB60021 - 37a678ff4d0b1b96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 37a678ff4d0b1858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "98F6E4B6-B676-4110-898B-7C2FC1ED33E7 - 37a678ff4d0b1858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5125A983-5B98-47AA-ACB0-5E36FF85B297"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5125A983-5B98-47AA-ACB0-5E36FF85B297 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "5125A983-5B98-47AA-ACB0-5E36FF85B297 - 516b30f573b6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbum) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "5125A983-5B98-47AA-ACB0-5E36FF85B297 - 37a678ff4d0b1858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.configure(with: Appcent_AppternCase.SelectedArtistAlbums) -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F1E714-901F-4272-8D80-D539685F8730"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AlbumsCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "64F1E714-901F-4272-8D80-D539685F8730 - c4f859fba4b22625"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; Appcent_AppternCase.AlbumsCollectionViewCell"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "64F1E714-901F-4272-8D80-D539685F8730 - bfc3bfd5f7295b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.init(frame: __C.CGRect) -&gt; Appcent_AppternCase.AlbumsCollectionViewCell"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "64F1E714-901F-4272-8D80-D539685F8730 - 8ef5ad7237a14483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Appcent_AppternCase.AlbumsCollectionViewCell&gt;"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "64F1E714-901F-4272-8D80-D539685F8730 - f23888a789b5c9df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Appcent_AppternCase.AlbumsCollectionViewCell&gt;"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "64F1E714-901F-4272-8D80-D539685F8730 - a3666fe8aac09bfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appcent_AppternCase.AlbumsCollectionViewCell.__deallocating_deinit"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Cells/AlbumsCell/AlbumsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78 - 7e12f99abd1424b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Appcent_AppternCase.SelectedArtistAlbumsVC.fetchData() -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78 - 7e12f99abd1424b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Appcent_AppternCase.SelectedArtistAlbumsVC.fetchData() -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78 - 7e12f99abd1424b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Appcent_AppternCase.SelectedArtistAlbumsVC.fetchData() -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78 - 7e12f99abd1424d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Appcent_AppternCase.SelectedArtistAlbumsVC.fetchData() -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "20413589-CCD4-44A4-9DFB-2BFFA05CDC78 - 7e12f99abd1424d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Appcent_AppternCase.SelectedArtistAlbumsVC.fetchData() -&gt; ()"
+                  moduleName = "Appcent_AppternCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talhavarol/Desktop/Appcent_AppternCase/Appcent_AppternCase/Controllers/SelectedArtistAlbumsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
